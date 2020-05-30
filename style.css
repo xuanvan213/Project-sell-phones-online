@@ -1,0 +1,136 @@
+img{
+    width: 70%;
+    padding-bottom: 15px;
+    padding-top: 10px;
+    font-size: 20px !important;
+}
+h3{
+    color: #5f5912;
+    font-weight: bold;  
+    font-size: larger;
+}
+
+.col-md-3{
+       margin: 3% 0;
+       text-align: center;
+}
+
+.navbar-expand-sm .navbar-nav .nav-link {
+    color: black;
+    text-align: center;
+    padding: 17px;
+}
+.navbar-expand-sm .navbar-nav .nav-link:hover{
+    border-bottom: 1px solid orangered;
+}
+header{
+    border-bottom: 1px solid black;
+}
+.col-md-3>.pro:hover{
+    border: 1px salmon solid;
+    padding: 10px 0;
+}
+.goup {
+    right: 5%;
+    z-index: 999;
+    position: fixed;
+    background: #f65a3a;
+    padding: 15px;
+    font-size: 40px;
+    color: white;
+    bottom: 10%;
+    border-radius: 40px;
+}
+button:hover{
+    background: #f65a3a;
+    color: black;
+}
+h5{
+    padding: 5px;      
+    text-align: center;
+    border-radius: 20px;
+    color: wheat;
+    background: green;
+    font-weight: bolder;
+    color: white;
+    margin: 12px 20%;
+}
+.col-md-3{
+    text-align: center;
+}
+
+.duoihead{
+    background: yellow;
+}
+.container-fluid{
+    padding: 0;
+}
+button{
+margin-right: 5px;
+}
+.footer1{
+    background: #ece2b2;
+    border-top: 1px solid black;
+    margin-top: 5%;
+}
+.container{
+    padding-top: 20px;
+}
+p {
+margin-top: 0;
+margin-bottom: 0;
+color: #791a1a;
+}
+a.tenchu
+{
+color: #791a1a;
+text-decoration: none;
+background-color: transparent;
+text-decoration: none;
+}
+.h6, h6 {
+font-size: 30px;
+}
+.row
+{
+padding-left: 60px;
+}
+.tren{
+    border-bottom: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    padding: 10px 0;
+}
+.navbar-brand p{
+font-size: 30px;
+padding: 5%;
+font-weight: bold;
+color: darkgreen;
+}
+.navbar-expand-sm .navbar-nav .nav-link {
+    color: black;
+    text-align: center;
+    padding: 25px;
+}
+.navbar-expand-sm {
+    
+    background: yellow;
+}
+.dropdown-item:hover
+{
+background: lightgrey;
+margin: 0;
+}
+.fa-microsoft:before {
+font-size: 25px;
+}
+.up{
+background: lightgrey;
+display: flex;
+}
+.rightup{
+margin-left: 60%;
+}
+.rightup, .left{
+padding: 10px 25px; 
+}
